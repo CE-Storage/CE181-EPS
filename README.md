@@ -1,6 +1,6 @@
-# CE{code}-{abbreviation}: {course name} Course Repository
+# CE181-EPS: Engineering Probability and Statistics Course Repository
 
-Welcome to the repository for {course name} course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
+Welcome to the repository for Engineering Probability and Statistics course at Sharif University of Technology. This repository is a comprehensive collection of assignments, exam materials, lecture slides, and additional resources.
 
 ## Table of Contents
 
@@ -51,10 +51,6 @@ If you would like to contribute to this repository, please follow these steps:
 5. **Review**: Your pull request will be reviewed, and if it's deemed a valuable addition to the repository, it will be merged.
 
 We appreciate your contributions and look forward to your valuable input!
-
-## Maintainer
-
-Information about the maintainer(s) of the repository, with contact details.
 
 ## License
 
